@@ -47,7 +47,7 @@ Create an intelligent and sleek ChatGPT-style chatbot using your OpenAI API key.
     Create a `.env` file in the root directory and add your OpenAI API key:
 
     ```env
-    VITE_OPENAI_API_KEY=your-openai-api-key-here
+    VITE_OPENROUTER_API_KEY=your-openai-api-key-here
     ```
 
 4. **Start the dev server**
